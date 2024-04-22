@@ -1,0 +1,17 @@
+{
+    "name": "99_percent_game",
+    "version": "1.0.0",
+    "description": "A Phaser.js game where players aim to complete exactly 99% of each level.",
+    "main": "main.js",
+    "scripts": {
+      "start": "http-server . -p 8080 -c-1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "phaser": "^3.55.2",
+      "http-server": "^0.12.3"
+    }
+  }
+  
